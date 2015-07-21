@@ -5,7 +5,7 @@ tags: 妞妞
 
 * 当我把妞妞的照片做成视频并在家里的智能电视上播放时。妞奶奶对着妞子说:"妞你有一个灰常NB的爸爸"。
 
-<div id="youkuplayer" style="width:480px;height:400px"></div>
+<div id="youkuplayer" class="video-container"></div>
 <script type="text/javascript" src="http://player.youku.com/jsapi">
 player = new YKU.Player('youkuplayer',{
 styleid: '0',
